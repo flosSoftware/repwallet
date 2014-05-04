@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxis.m \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxis.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDefinitions.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLayer.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTResponder.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextStyle.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisLabel.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisLabelGroup.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisSet.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisTitle.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColor.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTExceptions.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTFill.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGradient.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGridLineGroup.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGridLines.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTImage.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLimitBand.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineCap.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineStyle.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutablePlotRange.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotRange.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/iPhoneOnly/CPTPlatformSpecificCategories.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/iPhoneOnly/CPTPlatformSpecificDefines.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotArea.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAnnotationHostLayer.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGraph.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTBorderedLayer.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSpace.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTShadow.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextLayer.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTUtilities.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/NSCoderExtensions.h \
+  /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/NSDecimalNumberExtensions.h

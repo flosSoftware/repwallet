@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>CellType</key>
+		<string>FirmSelectionCell</string>
+		<key>DataKey</key>
+		<string>firm</string>
+		<key>Label</key>
+		<string>Customer</string>
+		<key>Mandatory</key>
+		<string>Y</string>
+	</dict>
+	<dict>
+		<key>CellType</key>
+		<string>NonNegativeNumberCell</string>
+		<key>DataKey</key>
+		<string>amount</string>
+		<key>Label</key>
+		<string>Amount</string>
+		<key>Mandatory</key>
+		<string>Y</string>
+	</dict>
+	<dict>
+		<key>CellType</key>
+		<string>ItemCategorySuggestionCell</string>
+		<key>DataKey</key>
+		<string>itemCategory</string>
+		<key>Label</key>
+		<string>Item Category</string>
+		<key>Mandatory</key>
+		<string>Y</string>
+	</dict>
+	<dict>
+		<key>Before</key>
+		<string>endDate</string>
+		<key>CellType</key>
+		<string>DatePickerCell</string>
+		<key>DataKey</key>
+		<string>startDate</string>
+		<key>Label</key>
+		<string>Start Date</string>
+		<key>Mandatory</key>
+		<string>Y</string>
+	</dict>
+	<dict>
+		<key>After</key>
+		<string>startDate</string>
+		<key>CellType</key>
+		<string>DatePickerCell</string>
+		<key>DataKey</key>
+		<string>endDate</string>
+		<key>Label</key>
+		<string>End Date</string>
+		<key>Mandatory</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>CellType</key>
+		<string>NotesCell</string>
+		<key>DataKey</key>
+		<string>notes</string>
+		<key>Label</key>
+		<string>Notes</string>
+		<key>Mandatory</key>
+		<string>N</string>
+	</dict>
+	<dict>
+		<key>CellType</key>
+		<string>PhotoPickerCell</string>
+		<key>DataKey</key>
+		<string>photos</string>
+		<key>Label</key>
+		<string>Photos</string>
+		<key>Mandatory</key>
+		<string>N</string>
+	</dict>
+    <dict>
+		<key>CellType</key>
+		<string>DocumentPickerCell</string>
+		<key>DataKey</key>
+		<string>documents</string>
+		<key>Label</key>
+		<string>Documents</string>
+		<key>Mandatory</key>
+		<string>N</string>
+	</dict>
+</array>
+</plist>

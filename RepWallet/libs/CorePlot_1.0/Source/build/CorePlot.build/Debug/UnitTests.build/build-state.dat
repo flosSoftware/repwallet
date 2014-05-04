@@ -1,0 +1,1688 @@
+TUnitTests
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/Info.plist UnitTests-Info.plist
+cProcessPCH /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h.pth /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTestCase.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTestCase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTPlotRangeTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotRangeTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDataSourceTestCase.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDataSourceTestCase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTUtilitiesTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTUtilitiesTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTextStyleTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextStyleTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTXYPlotSpaceTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYPlotSpaceTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTScatterPlotTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTScatterPlotTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTAxisLabelTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisLabelTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDarkGradientThemeTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDarkGradientThemeTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDerivedXYGraph.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDerivedXYGraph.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTThemeTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTThemeTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTMutableNumericDataTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTNumericDataTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTNumericDataTypeConversionTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTypeConversionTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTMutableNumericDataTypeConversionTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTypeConversionTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTPlotSpaceTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSpaceTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTimeFormatterTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTimeFormatterTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTColorTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTColorSpaceTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorSpaceTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTGradientTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGradientTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTImageTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTImageTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTLineStyleTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineStyleTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTFillTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTFillTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/MacOS/UnitTests normal i386
+cGenerateDSYMFile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest.dSYM /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/MacOS/UnitTests
+cPhaseScriptExecution "Run Script" /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Script-0730F5FE109492D800E95162.sh
+cTouch /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h
+c000000004D65836A0000000000000E25
+t1298498410
+s3621
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h
+c000000004D65836A0000000000000701
+t1298498410
+s1793
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestCase.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h
+c000000004D65836A000000000000084C
+t1298498410
+s2124
+i<Foundation/Foundation.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h
+c000000004D65836A000000000000167B
+t1298498410
+s5755
+i<Foundation/NSObject.h>
+i<SenTestingKit/SenTest.h>
+i<SenTestingKit/SenTestCase_Macros.h>
+i<SenTestingKit/NSException_SenTestFailure.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h
+c000000004D65836A0000000000000875
+t1298498410
+s2165
+i<SenTestingKit/SenTestRun.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h
+c000000004D65836A0000000000007F41
+t1298498410
+s32577
+i<SenTestingKit/SenTestingUtilities.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h
+c000000004D65836A0000000000000947
+t1298498410
+s2375
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h
+c000000004D65836A0000000000000800
+t1298498410
+s2048
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestObserver.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h
+c000000004D65836A000000000000079D
+t1298498410
+s1949
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestObserver.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h
+c000000004D65836A0000000000000A6C
+t1298498410
+s2668
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h
+c000000004D65836A0000000000000AD1
+t1298498410
+s2769
+i<Foundation/Foundation.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h
+c000000004D65836A0000000000000A79
+t1298498410
+s2681
+i<Foundation/NSObject.h>
+i<SenTestingKit/SenTest.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h
+c000000004D65836A0000000000000CCF
+t1298498410
+s3279
+i<SenTestingKit/SenTest.h>
+i<SenTestingKit/SenTestCase.h>
+i<Foundation/Foundation.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h
+c000000004D65836A00000000000007E1
+t1298498410
+s2017
+i<SenTestingKit/SenTestRun.h>
+i<SenTestingKit/SenTestDefines.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004D65836A00000000000008A5
+t1298498410
+s2213
+i<SenTestingKit/SenTestDefines.h>
+i<SenTestingKit/SenTest.h>
+i<SenTestingKit/SenTestCase.h>
+i<SenTestingKit/SenTestSuite.h>
+i<SenTestingKit/SenTestObserver.h>
+i<SenTestingKit/NSException_SenTestFailure.h>
+i<SenTestingKit/SenTestLog.h>
+i<SenTestingKit/SenTestDistributedNotifier.h>
+i<SenTestingKit/SenTestRun.h>
+i<SenTestingKit/SenTestSuiteRun.h>
+i<SenTestingKit/SenTestCaseRun.h>
+i<SenTestingKit/SenInterfaceTestCase.h>
+i<SenTestingKit/SenTestProbe.h>
+i<SenTestingKit/SenTestingUtilities.h>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h
+c000000004D65836A0000000000000C37
+t1298498410
+s3127
+i<Foundation/Foundation.h>
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D66164C00000000000000EE
+t1298536012
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004CC4198400000000000017ED
+t1287920004
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC401D100000000000013E6
+t1287913937
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h
+c000000004CC401D20000000000000EDE
+t1287913938
+s3806
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC4130B00000000000000BF
+t1287918347
+s191
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/Availability.h
+c000000004A8D4DF700000000000019DB
+t1250774519
+s6619
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/TargetConditionals.h
+c000000004A8D4DF700000000000031E9
+t1250774519
+s12777
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/complex.h
+c000000004AC599B5000000000000190B
+t1254463925
+s6411
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004AC599B500000000000004F1
+t1254463925
+s1265
+
+N/Developer/usr/lib/clang/2.0/include/tgmath.h
+c000000004D656C660000000000007814
+t1298492518
+s30740
+i<math.h>
+i<complex.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTAxisLabelTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTColorSpaceTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTColorTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDarkGradientThemeTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDataSourceTestCase.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDerivedXYGraph.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTFillTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTGradientTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTImageTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTLineStyleTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTMutableNumericDataTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTMutableNumericDataTypeConversionTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTNumericDataTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTNumericDataTypeConversionTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTPlotRangeTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTPlotSpaceTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTScatterPlotTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTestCase.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTextStyleTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTThemeTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTimeFormatterTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTUtilitiesTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTXYPlotSpaceTests.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/UnitTests.LinkFileList
+c0000000050983CCB0000000000000CC3
+t1352154315
+s3267
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Script-0730F5FE109492D800E95162.sh
+c0000000050983CCB0000000000000062
+t1352154315
+s98
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/CorePlot.framework/CorePlot
+c0000000050983C7E0000000000104A18
+t1352154238
+s1067544
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest.dSYM
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/Info.plist
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/MacOS/UnitTests
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/CorePlot.h
+c000000004F4118BB00000000000008C0
+t1329666235
+s2240
+i<CorePlot/CPTAnnotation.h>
+i<CorePlot/CPTAnnotationHostLayer.h>
+i<CorePlot/CPTAxis.h>
+i<CorePlot/CPTAxisLabel.h>
+i<CorePlot/CPTAxisSet.h>
+i<CorePlot/CPTAxisTitle.h>
+i<CorePlot/CPTBarPlot.h>
+i<CorePlot/CPTBorderedLayer.h>
+i<CorePlot/CPTColor.h>
+i<CorePlot/CPTColorSpace.h>
+i<CorePlot/CPTConstraints.h>
+i<CorePlot/CPTDecimalNumberValueTransformer.h>
+i<CorePlot/CPTDefinitions.h>
+i<CorePlot/CPTExceptions.h>
+i<CorePlot/CPTFill.h>
+i<CorePlot/CPTGradient.h>
+i<CorePlot/CPTGraph.h>
+i<CorePlot/CPTImage.h>
+i<CorePlot/CPTLayer.h>
+i<CorePlot/CPTLayerAnnotation.h>
+i<CorePlot/CPTLegend.h>
+i<CorePlot/CPTLegendEntry.h>
+i<CorePlot/CPTLimitBand.h>
+i<CorePlot/CPTLineCap.h>
+i<CorePlot/CPTLineStyle.h>
+i<CorePlot/CPTMutableLineStyle.h>
+i<CorePlot/CPTMutableNumericData.h>
+i<CorePlot/CPTMutableNumericData+TypeConversion.h>
+i<CorePlot/CPTMutablePlotRange.h>
+i<CorePlot/CPTMutableShadow.h>
+i<CorePlot/CPTMutableTextStyle.h>
+i<CorePlot/CPTNumericDataType.h>
+i<CorePlot/CPTNumericData.h>
+i<CorePlot/CPTNumericData+TypeConversion.h>
+i<CorePlot/CPTPieChart.h>
+i<CorePlot/CPTPlatformSpecificDefines.h>
+i<CorePlot/CPTPlatformSpecificFunctions.h>
+i<CorePlot/CPTPlatformSpecificCategories.h>
+i<CorePlot/CPTPathExtensions.h>
+i<CorePlot/CPTPlot.h>
+i<CorePlot/CPTPlotArea.h>
+i<CorePlot/CPTPlotAreaFrame.h>
+i<CorePlot/CPTPlotRange.h>
+i<CorePlot/CPTPlotSpace.h>
+i<CorePlot/CPTPlotSpaceAnnotation.h>
+i<CorePlot/CPTPlotSymbol.h>
+i<CorePlot/CPTRangePlot.h>
+i<CorePlot/CPTResponder.h>
+i<CorePlot/CPTScatterPlot.h>
+i<CorePlot/CPTShadow.h>
+i<CorePlot/CPTTextLayer.h>
+i<CorePlot/CPTTextStyle.h>
+i<CorePlot/CPTTradingRangePlot.h>
+i<CorePlot/CPTTheme.h>
+i<CorePlot/CPTTimeFormatter.h>
+i<CorePlot/CPTUtilities.h>
+i<CorePlot/CPTXYAxis.h>
+i<CorePlot/CPTXYAxisSet.h>
+i<CorePlot/CPTXYGraph.h>
+i<CorePlot/CPTXYPlotSpace.h>
+i<CorePlot/CPTGraphHostingView.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/MacOnly/CPTGraphHostingView.h
+c000000004F4118BC00000000000000C0
+t1329666236
+s192
+i<Cocoa/Cocoa.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/MacOnly/CPTPlatformSpecificCategories.h
+c000000004F4118BC000000000000026F
+t1329666236
+s623
+i"CPTColor.h"
+i"CPTLayer.h"
+i"CPTPlatformSpecificDefines.h"
+i<AppKit/AppKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/MacOnly/CPTPlatformSpecificDefines.h
+c000000004F4118BC000000000000008B
+t1329666236
+s139
+i<AppKit/AppKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/MacOnly/CPTPlatformSpecificFunctions.h
+c000000004F4118BC0000000000000219
+t1329666236
+s537
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/../MacOnly/CPTDecimalNumberValueTransformer.h
+c000000004F4118BC000000000000006E
+t1329666236
+s110
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAnnotation.h
+c000000004F4118BD00000000000003B7
+t1329666237
+s951
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAnnotationHostLayer.h
+c000000004F4118BE000000000000017B
+t1329666238
+s379
+i"CPTLayer.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxis.h
+c000000004F4118BE00000000000022CD
+t1329666238
+s8909
+i"CPTDefinitions.h"
+i"CPTLayer.h"
+i"CPTTextStyle.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisLabel.h
+c000000004F4118BE0000000000000419
+t1329666238
+s1049
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisLabelTests.h
+c000000004F4118BE000000000000004E
+t1329666238
+s78
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisLabelTests.m
+c000000004F4118BE0000000000001AA9
+t1329666238
+s6825
+i"CPTAxisLabel.h"
+i"CPTAxisLabelTests.h"
+i"CPTBorderedLayer.h"
+i"CPTColor.h"
+i"CPTExceptions.h"
+i"CPTFill.h"
+i"CPTMutableTextStyle.h"
+i<tgmath.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisSet.h
+c000000004F4118BE0000000000000166
+t1329666238
+s358
+i"CPTLayer.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisTitle.h
+c000000004F4118BE000000000000006D
+t1329666238
+s109
+i"CPTAxisLabel.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTBarPlot.h
+c000000004F4118BE0000000000000F07
+t1329666238
+s3847
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTBorderedLayer.h
+c000000004F4118BF0000000000000162
+t1329666239
+s354
+i"CPTAnnotationHostLayer.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColor.h
+c000000004F4118BF0000000000000449
+t1329666239
+s1097
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorSpace.h
+c000000004F4118BF0000000000000198
+t1329666239
+s408
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorSpaceTests.h
+c000000004F4118BF000000000000004F
+t1329666239
+s79
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorSpaceTests.m
+c000000004F4118BF00000000000002B4
+t1329666239
+s692
+i"CPTColorSpace.h"
+i"CPTColorSpaceTests.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorTests.h
+c000000004F4118BF000000000000004A
+t1329666239
+s74
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorTests.m
+c000000004F4118BF000000000000017F
+t1329666239
+s383
+i"CPTColor.h"
+i"CPTColorTests.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTConstraints.h
+c000000004F4118BF00000000000003B4
+t1329666239
+s948
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDarkGradientThemeTests.h
+c000000004F4118BF0000000000000056
+t1329666239
+s86
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDarkGradientThemeTests.m
+c000000004F4118BF0000000000000369
+t1329666239
+s873
+i"CPTDarkGradientThemeTests.h"
+i"CPTDerivedXYGraph.h"
+i"CPTGraph.h"
+i"CPTXYGraph.h"
+i"_CPTDarkGradientTheme.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDataSourceTestCase.h
+c000000004F4118C0000000000000027D
+t1329666240
+s637
+i"CPTTestCase.h"
+i"CPTPlot.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDataSourceTestCase.m
+c000000004F4118C00000000000000D2A
+t1329666240
+s3370
+i"CPTDataSourceTestCase.h"
+i"CPTExceptions.h"
+i"CPTMutablePlotRange.h"
+i"CPTScatterPlot.h"
+i"CPTUtilities.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDefinitions.h
+c000000004F4118C00000000000000F6A
+t1329666240
+s3946
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+i<Availability.h>
+i<TargetConditionals.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDerivedXYGraph.h
+c000000004F4118C0000000000000004C
+t1329666240
+s76
+i"CPTXYGraph.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDerivedXYGraph.m
+c000000004F4118C0000000000000008B
+t1329666240
+s139
+i"CPTDerivedXYGraph.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTExceptions.h
+c000000004F4118C000000000000000E1
+t1329666240
+s225
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTFill.h
+c000000004F4118C00000000000000352
+t1329666240
+s850
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTFillTests.h
+c000000004F4118C00000000000000049
+t1329666240
+s73
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTFillTests.m
+c000000004F4118C000000000000007F3
+t1329666240
+s2035
+i"CPTColor.h"
+i"CPTFill.h"
+i"CPTFillTests.h"
+i"CPTGradient.h"
+i"CPTImage.h"
+i"_CPTFillColor.h"
+i"_CPTFillGradient.h"
+i"_CPTFillImage.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGradient.h
+c000000004F4118C00000000000000C0A
+t1329666240
+s3082
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGradientTests.h
+c000000004F4118C0000000000000004D
+t1329666240
+s77
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGradientTests.m
+c000000004F4118C000000000000001AA
+t1329666240
+s426
+i"CPTGradient.h"
+i"CPTGradientTests.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGraph.h
+c000000004F4118C10000000000000DB8
+t1329666241
+s3512
+i"CPTBorderedLayer.h"
+i"CPTDefinitions.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTImage.h
+c000000004F4118C100000000000003CB
+t1329666241
+s971
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTImageTests.h
+c000000004F4118C1000000000000004A
+t1329666241
+s74
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTImageTests.m
+c000000004F4118C100000000000002D6
+t1329666241
+s726
+i"CPTImage.h"
+i"CPTImageTests.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLayer.h
+c000000004F4118C10000000000000A7A
+t1329666241
+s2682
+i"CPTDefinitions.h"
+i"CPTResponder.h"
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLayerAnnotation.h
+c000000004F4118C100000000000001FA
+t1329666241
+s506
+i"CPTAnnotation.h"
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLegend.h
+c000000004F4118C20000000000000FFE
+t1329666242
+s4094
+i"CPTBorderedLayer.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLegendEntry.h
+c000000004F4118C20000000000000392
+t1329666242
+s914
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLimitBand.h
+c000000004F4118C2000000000000021E
+t1329666242
+s542
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineCap.h
+c000000004F4118C20000000000000859
+t1329666242
+s2137
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineStyle.h
+c000000004F4118C20000000000000418
+t1329666242
+s1048
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineStyleTests.h
+c000000004F4118C2000000000000004E
+t1329666242
+s78
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineStyleTests.m
+c000000004F4118C200000000000003DE
+t1329666242
+s990
+i"CPTLineStyle.h"
+i"CPTLineStyleTests.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableLineStyle.h
+c000000004F4118C20000000000000236
+t1329666242
+s566
+i"CPTLineStyle.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericData+TypeConversion.h
+c000000004F4118C200000000000002BD
+t1329666242
+s701
+i"CPTMutableNumericData.h"
+i"CPTNumericDataType.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericData.h
+c000000004F4118C20000000000000302
+t1329666242
+s770
+i"CPTNumericData.h"
+i"CPTNumericDataType.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTests.h
+c000000004F4118C30000000000000057
+t1329666243
+s87
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTests.m
+c000000004F4118C30000000000002455
+t1329666243
+s9301
+i"CPTExceptions.h"
+i"CPTMutableNumericData+TypeConversion.h"
+i"CPTMutableNumericData.h"
+i"CPTMutableNumericDataTests.h"
+i"CPTNumericData+TypeConversion.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTypeConversionTests.h
+c000000004F4118C30000000000000065
+t1329666243
+s101
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTypeConversionTests.m
+c000000004F4118C30000000000001DC8
+t1329666243
+s7624
+i"CPTMutableNumericData+TypeConversion.h"
+i"CPTMutableNumericData.h"
+i"CPTMutableNumericDataTypeConversionTests.h"
+i"CPTUtilities.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutablePlotRange.h
+c000000004F4118C30000000000000277
+t1329666243
+s631
+i"CPTPlotRange.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableShadow.h
+c000000004F4118C30000000000000161
+t1329666243
+s353
+i"CPTShadow.h"
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableTextStyle.h
+c000000004F4118C3000000000000017E
+t1329666243
+s382
+i"CPTTextStyle.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericData+TypeConversion.h
+c000000004F4118C3000000000000032D
+t1329666243
+s813
+i"CPTNumericData.h"
+i"CPTNumericDataType.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericData.h
+c000000004F4118C300000000000007F0
+t1329666243
+s2032
+i"CPTNumericDataType.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTests.h
+c000000004F4118C40000000000000050
+t1329666244
+s80
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTests.m
+c000000004F4118C40000000000002543
+t1329666244
+s9539
+i"CPTExceptions.h"
+i"CPTNumericData+TypeConversion.h"
+i"CPTNumericData.h"
+i"CPTNumericDataTests.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataType.h
+c000000004F4118C4000000000000051A
+t1329666244
+s1306
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTypeConversionTests.h
+c000000004F4118C4000000000000005E
+t1329666244
+s94
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTypeConversionTests.m
+c000000004F4118C40000000000002DAA
+t1329666244
+s11690
+i"CPTNumericData+TypeConversion.h"
+i"CPTNumericData.h"
+i"CPTNumericDataTypeConversionTests.h"
+i"CPTUtilities.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPathExtensions.h
+c000000004F4118C40000000000000125
+t1329666244
+s293
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPieChart.h
+c000000004F4118C40000000000000D54
+t1329666244
+s3412
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlot.h
+c000000004F4118C40000000000001E53
+t1329666244
+s7763
+i"CPTAnnotationHostLayer.h"
+i"CPTDefinitions.h"
+i"CPTMutableTextStyle.h"
+i"CPTNumericDataType.h"
+i"CPTPlotRange.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotArea.h
+c000000004F4118C50000000000000662
+t1329666245
+s1634
+i"CPTAnnotationHostLayer.h"
+i"CPTGraph.h"
+i"CPTLayer.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotAreaFrame.h
+c000000004F4118C50000000000000176
+t1329666245
+s374
+i"CPTBorderedLayer.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotRange.h
+c000000004F4118C50000000000000780
+t1329666245
+s1920
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotRangeTests.h
+c000000004F4118C500000000000000CB
+t1329666245
+s203
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotRangeTests.m
+c000000004F4118C50000000000004282
+t1329666245
+s17026
+i"CPTPlotRangeTests.h"
+i"CPTExceptions.h"
+i"CPTMutablePlotRange.h"
+i"CPTUtilities.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSpace.h
+c000000004F4118C50000000000001733
+t1329666245
+s5939
+i"CPTDefinitions.h"
+i"CPTResponder.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSpaceAnnotation.h
+c000000004F4118C5000000000000019B
+t1329666245
+s411
+i"CPTAnnotation.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSpaceTests.h
+c000000004F4118C500000000000000A8
+t1329666245
+s168
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSpaceTests.m
+c000000004F4118C50000000000000435
+t1329666245
+s1077
+i"CPTExceptions.h"
+i"CPTPlotRange.h"
+i"CPTPlotSpace.h"
+i"CPTPlotSpaceTests.h"
+i"CPTUtilities.h"
+i"CPTXYGraph.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSymbol.h
+c000000004F4118C50000000000000964
+t1329666245
+s2404
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTRangePlot.h
+c000000004F4118C60000000000000521
+t1329666246
+s1313
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTResponder.h
+c000000004F4118C600000000000006A9
+t1329666246
+s1705
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTScatterPlot.h
+c000000004F4118C60000000000000DF6
+t1329666246
+s3574
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTScatterPlotTests.h
+c000000004F4118C600000000000000F9
+t1329666246
+s249
+i"CPTTestCase.h"
+i<CorePlot/CorePlot.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTScatterPlotTests.m
+c000000004F4118C60000000000001FB5
+t1329666246
+s8117
+i"CPTScatterPlotTests.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTShadow.h
+c000000004F4118C60000000000000245
+t1329666246
+s581
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTestCase.h
+c000000004F4118C60000000000000058
+t1329666246
+s88
+i<SenTestingKit/SenTestingKit.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTestCase.m
+c000000004F4118C6000000000000003B
+t1329666246
+s59
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextLayer.h
+c000000004F4118C60000000000000247
+t1329666246
+s583
+i"CPTLayer.h"
+i"CPTTextStyle.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextStyle.h
+c000000004F4118C600000000000004BD
+t1329666246
+s1213
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextStyleTests.h
+c000000004F4118C7000000000000004E
+t1329666247
+s78
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextStyleTests.m
+c000000004F4118C7000000000000047D
+t1329666247
+s1149
+i"CPTColor.h"
+i"CPTTextStyle.h"
+i"CPTTextStyleTests.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTheme.h
+c000000004F4118C70000000000000477
+t1329666247
+s1143
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTThemeTests.h
+c000000004F4118C7000000000000004A
+t1329666247
+s74
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTThemeTests.m
+c000000004F4118C700000000000008CA
+t1329666247
+s2250
+i"CPTDerivedXYGraph.h"
+i"CPTExceptions.h"
+i"CPTGraph.h"
+i"CPTTheme.h"
+i"CPTThemeTests.h"
+i"CPTXYGraph.h"
+i"_CPTDarkGradientTheme.h"
+i"_CPTPlainBlackTheme.h"
+i"_CPTPlainWhiteTheme.h"
+i"_CPTStocksTheme.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTimeFormatter.h
+c000000004F4118C70000000000000199
+t1329666247
+s409
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTimeFormatterTests.h
+c000000004F4118C70000000000000052
+t1329666247
+s82
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTimeFormatterTests.m
+c000000004F4118C700000000000003BB
+t1329666247
+s955
+i"CPTTimeFormatter.h"
+i"CPTTimeFormatterTests.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTradingRangePlot.h
+c000000004F4118C70000000000000892
+t1329666247
+s2194
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTUtilities.h
+c000000004F4118C70000000000000E24
+t1329666247
+s3620
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTUtilitiesTests.h
+c000000004F4118C8000000000000004E
+t1329666248
+s78
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTUtilitiesTests.m
+c000000004F4118C80000000000002AB4
+t1329666248
+s10932
+i"CPTDefinitions.h"
+i"CPTUtilities.h"
+i"CPTUtilities.h"
+i"CPTUtilitiesTests.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYAxis.h
+c000000004F4118C80000000000000183
+t1329666248
+s387
+i"CPTAxis.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYAxisSet.h
+c000000004F4118C800000000000000F1
+t1329666248
+s241
+i"CPTAxisSet.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYGraph.h
+c000000004F4118C80000000000000157
+t1329666248
+s343
+i"CPTDefinitions.h"
+i"CPTGraph.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYPlotSpace.h
+c000000004F4118C800000000000002D3
+t1329666248
+s723
+i"CPTDefinitions.h"
+i"CPTPlotSpace.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYPlotSpaceTests.h
+c000000004F4118C800000000000000AA
+t1329666248
+s170
+i"CPTTestCase.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYPlotSpaceTests.m
+c000000004F4118C80000000000002D4E
+t1329666248
+s11598
+i"CPTExceptions.h"
+i"CPTPlotRange.h"
+i"CPTUtilities.h"
+i"CPTXYGraph.h"
+i"CPTXYPlotSpace.h"
+i"CPTXYPlotSpaceTests.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/_CPTDarkGradientTheme.h
+c000000004F4118BD0000000000000052
+t1329666237
+s82
+i"_CPTXYTheme.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/_CPTFillColor.h
+c000000004F4118BD0000000000000181
+t1329666237
+s385
+i"CPTFill.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/_CPTFillGradient.h
+c000000004F4118BD00000000000001A7
+t1329666237
+s423
+i"CPTFill.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/_CPTFillImage.h
+c000000004F4118BD0000000000000193
+t1329666237
+s403
+i"CPTFill.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/_CPTPlainBlackTheme.h
+c000000004F4118BD0000000000000050
+t1329666237
+s80
+i"_CPTXYTheme.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/_CPTPlainWhiteTheme.h
+c000000004F4118BD0000000000000050
+t1329666237
+s80
+i"_CPTXYTheme.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/_CPTStocksTheme.h
+c000000004F4118BD000000000000004C
+t1329666237
+s76
+i"_CPTXYTheme.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/_CPTXYTheme.h
+c000000004F4118BD0000000000000042
+t1329666237
+s66
+i"CPTTheme.h"
+
+N/var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h.pth
+t2
+s0
+
+NUnitTests-Info.plist
+c000000004BD4F1FC00000000000002B9
+t1272246780
+s697
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisLabelTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorSpaceTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDarkGradientThemeTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDataSourceTestCase.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDerivedXYGraph.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTFillTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGradientTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTImageTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineStyleTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTypeConversionTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTypeConversionTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotRangeTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSpaceTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTScatterPlotTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTestCase.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextStyleTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTThemeTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTimeFormatterTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTUtilitiesTests.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYPlotSpaceTests.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies32e3214b7448b641^cb2d7d4b7448b641^---0#1#0#--18"Check dependencies
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTAxisLabelTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisLabelTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847118.368239
+e373847118.913579
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTAxisLabelTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisLabelTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisLabelTests.maf5d5e4e7448b641^64e7e94e7448b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisLabelTests.m0000000000000000^2148"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTAxisLabelTests.o Source/CPTAxisLabelTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisLabelTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTAxisLabelTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTColorSpaceTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorSpaceTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847120.755896
+e373847120.858589
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTColorSpaceTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorSpaceTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorSpaceTests.ma393c1507448b641^20d2db507448b641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorSpaceTests.m0000000000000000^2152"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTColorSpaceTests.o Source/CPTColorSpaceTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorSpaceTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTColorSpaceTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTColorTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847120.652696
+e373847120.755325
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTColorTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorTests.m8d2aa7507448b641^1f64c1507448b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorTests.m0000000000000000^2132"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTColorTests.o Source/CPTColorTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTColorTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDarkGradientThemeTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDarkGradientThemeTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847118.914247
+e373847119.037881
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDarkGradientThemeTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDarkGradientThemeTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDarkGradientThemeTests.me52aea4e7448b641^63b9094f7448b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDarkGradientThemeTests.m0000000000000000^2180"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDarkGradientThemeTests.o Source/CPTDarkGradientThemeTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDarkGradientThemeTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDarkGradientThemeTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDataSourceTestCase.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDataSourceTestCase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847117.480563
+e373847117.626918
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDataSourceTestCase.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDataSourceTestCase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDataSourceTestCase.m3f1d7b4d7448b641^b98ba04d7448b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDataSourceTestCase.m0000000000000000^2164"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDataSourceTestCase.o Source/CPTDataSourceTestCase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDataSourceTestCase.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDataSourceTestCase.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDerivedXYGraph.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDerivedXYGraph.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847119.038786
+e373847119.174910
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDerivedXYGraph.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDerivedXYGraph.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDerivedXYGraph.m4f3d124f7448b641^24d02c4f7448b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDerivedXYGraph.m0000000000000000^2148"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDerivedXYGraph.o Source/CPTDerivedXYGraph.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDerivedXYGraph.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTDerivedXYGraph.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTFillTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTFillTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847121.239142
+e373847121.357569
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTFillTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTFillTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTFillTests.m61513d517448b641^75905b517448b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTFillTests.m0000000000000000^2128"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTFillTests.o Source/CPTFillTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTFillTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTFillTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTGradientTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGradientTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847120.859273
+e373847120.976475
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTGradientTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGradientTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGradientTests.m0113dc507448b641^0401fa507448b641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGradientTests.m0000000000000000^2144"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTGradientTests.o Source/CPTGradientTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGradientTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTGradientTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTImageTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTImageTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847120.977507
+e373847121.083529
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTImageTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTImageTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTImageTests.m5c59fa507448b641^626815517448b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTImageTests.m0000000000000000^2132"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTImageTests.o Source/CPTImageTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTImageTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTImageTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTLineStyleTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineStyleTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847121.085833
+e373847121.238396
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTLineStyleTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineStyleTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineStyleTests.me81216517448b641^d00d3d517448b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineStyleTests.m0000000000000000^2148"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTLineStyleTests.o Source/CPTLineStyleTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineStyleTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTLineStyleTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTMutableNumericDataTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847119.330159
+e373847119.611852
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTMutableNumericDataTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTests.m239e544f7448b641^f4a89c4f7448b641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTests.m0000000000000000^2184"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTMutableNumericDataTests.o Source/CPTMutableNumericDataTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTMutableNumericDataTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTMutableNumericDataTypeConversionTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTypeConversionTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847120.261181
+e373847120.442145
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTMutableNumericDataTypeConversionTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTypeConversionTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTypeConversionTests.mf1f042507448b641^7e3771507448b641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTypeConversionTests.m0000000000000000^2240"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTMutableNumericDataTypeConversionTests.o Source/CPTMutableNumericDataTypeConversionTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericDataTypeConversionTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTMutableNumericDataTypeConversionTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTNumericDataTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847119.613294
+e373847119.979832
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTNumericDataTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTests.m8e209d4f7448b641^3ae8fa4f7448b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTests.m0000000000000000^2156"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTNumericDataTests.o Source/CPTNumericDataTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTNumericDataTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTNumericDataTypeConversionTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTypeConversionTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847119.980813
+e373847120.260576
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTNumericDataTypeConversionTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTypeConversionTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTypeConversionTests.m9c4dfb4f7448b641^dcbb42507448b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTypeConversionTests.m0000000000000000^2212"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTNumericDataTypeConversionTests.o Source/CPTNumericDataTypeConversionTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataTypeConversionTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTNumericDataTypeConversionTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTPlotRangeTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotRangeTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847117.137003
+e373847117.480057
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTPlotRangeTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotRangeTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotRangeTests.m904c234d7448b641^92eb7a4d7448b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotRangeTests.m0000000000000000^2148"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTPlotRangeTests.o Source/CPTPlotRangeTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotRangeTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTPlotRangeTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTPlotSpaceTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSpaceTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847120.442783
+e373847120.563035
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTPlotSpaceTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSpaceTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSpaceTests.mbb9971507448b641^732b90507448b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSpaceTests.m0000000000000000^2148"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTPlotSpaceTests.o Source/CPTPlotSpaceTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSpaceTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTPlotSpaceTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTScatterPlotTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTScatterPlotTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847118.222725
+e373847118.366380
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTScatterPlotTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTScatterPlotTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTScatterPlotTests.mac1d394e7448b641^70d15d4e7448b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTScatterPlotTests.m0000000000000000^2156"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTScatterPlotTests.o Source/CPTScatterPlotTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTScatterPlotTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTScatterPlotTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTestCase.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTestCase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847117.024553
+e373847117.135836
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTestCase.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTestCase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTestCase.m4581064d7448b641^cfd9224d7448b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTestCase.m0000000000000000^2124"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTestCase.o Source/CPTTestCase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTestCase.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTestCase.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTextStyleTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextStyleTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847117.839085
+e373847117.990715
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTextStyleTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextStyleTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextStyleTests.mdf17d74d7448b641^dfa4fd4d7448b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextStyleTests.m0000000000000000^2148"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTextStyleTests.o Source/CPTTextStyleTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextStyleTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTextStyleTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTThemeTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTThemeTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847119.175715
+e373847119.328734
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTThemeTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTThemeTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTThemeTests.m4e422d4f7448b641^1e37544f7448b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTThemeTests.m0000000000000000^2132"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTThemeTests.o Source/CPTThemeTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTThemeTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTThemeTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTimeFormatterTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTimeFormatterTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847120.563797
+e373847120.652404
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTimeFormatterTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTimeFormatterTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTimeFormatterTests.m556c90507448b641^fa09a7507448b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTimeFormatterTests.m0000000000000000^2164"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTimeFormatterTests.o Source/CPTTimeFormatterTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTimeFormatterTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTTimeFormatterTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTUtilitiesTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTUtilitiesTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847117.627888
+e373847117.838565
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTUtilitiesTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTUtilitiesTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTUtilitiesTests.m5ef1a04d7448b641^32acd64d7448b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTUtilitiesTests.m0000000000000000^2148"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTUtilitiesTests.o Source/CPTUtilitiesTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTUtilitiesTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTUtilitiesTests.o
+
+CCompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTXYPlotSpaceTests.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYPlotSpaceTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847117.991450
+e373847118.221921
+r1
+xCompileC
+x../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTXYPlotSpaceTests.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYPlotSpaceTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYPlotSpaceTests.m32e3fd4d7448b641^a1d6384e7448b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYPlotSpaceTests.m0000000000000000^2156"CompileC ../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTXYPlotSpaceTests.o Source/CPTXYPlotSpaceTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYPlotSpaceTests.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/CPTXYPlotSpaceTests.o
+
+CGenerateDSYMFile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest.dSYM /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/MacOS/UnitTests
+s373847121.548734
+e373847121.713779
+r1
+xGenerateDSYMFile
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest.dSYM
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/MacOS/UnitTests
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Generating /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest.dSYM8ba98c517448b641^83c0b6517448b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest.dSYM0000005c1fffdbc1^409"GenerateDSYMFile ../build/Debug/UnitTests.octest.dSYM ../build/Debug/UnitTests.octest/Contents/MacOS/UnitTests    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    /Developer/usr/bin/dsymutil /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/MacOS/UnitTests -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest.dSYM
+
+CLd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/MacOS/UnitTests normal i386
+s373847121.358200
+e373847121.546767
+r1
+xLd
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/MacOS/UnitTests
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/MacOS/UnitTests53ca5b517448b641^40188c517448b641^---0#0#0#--804"Ld ../build/Debug/UnitTests.octest/Contents/MacOS/UnitTests normal i386    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/clang -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -filelist /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/UnitTests.LinkFileList -mmacosx-version-min=10.5 -dead_strip -framework Cocoa -framework SenTestingKit -framework CorePlot -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/MacOS/UnitTests
+
+CPhaseScriptExecution "Run Script" /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Script-0730F5FE109492D800E95162.sh
+s373847121.716669
+e373847121.886986
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Script-0730F5FE109492D800E95162.sh
+o/Developer/Tools/RunUnitTests:68: note: RunUnitTests exited without running tests because TEST_AFTER_BUILD was set to NO.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'b076b8517448b641^5b26e3517448b641^-122"/Developer/Tools/RunUnitTests:68: note: RunUnitTests exited without running tests because TEST_AFTER_BUILD was set to NO.1(21%IDEActivityLogMessage2@81"RunUnitTests exited without running tests because TEST_AFTER_BUILD was set to NO.-373847121#0#122#-0#-23%DVTTextDocumentLocation3@45"file://localhost/Developer/Tools/RunUnitTests0000000000000000^67#4294967295#67#4294967295#4294967295#0#30"Shell Script Invocation Notice--0#0#0#--18320"PhaseScriptExecution "Run Script" ../build/CorePlot.build/Debug/UnitTests.build/Script-0730F5FE109492D800E95162.sh    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER alb    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386"    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv AVAILABLE_PLATFORMS "macosx iphoneos iphonesimulator"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build    setenv BUILD_ROOT /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug    setenv CACHE_ROOT /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest    setenv CODE_SIGNING_ALLOWED YES    setenv COMBINE_HIDPI_IMAGES NO    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug    setenv CONFIGURATION_TEMP_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug    setenv CONTENTS_FOLDER_PATH UnitTests.octest/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH UnitTests.octest/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/CorePlot.dst    setenv DWARF_DSYM_FILE_NAME UnitTests.octest.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH UnitTests.octest/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH UnitTests.octest/Contents/MacOS    setenv EXECUTABLE_NAME UnitTests    setenv EXECUTABLE_PATH UnitTests.octest/Contents/MacOS/UnitTests    setenv FILE_LIST /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH UnitTests.octest/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug\" /Developer/Library/Frameworks"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME UnitTests.octest    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_OBJC_EXCEPTIONS YES    setenv GCC_ENABLE_OBJC_GC supported    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_MODEL_TUNING G5    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h    setenv GCC_TREAT_WARNINGS_AS_ERRORS YES    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_64_TO_32_BIT_CONVERSION NO    setenv GCC_WARN_ABOUT_MISSING_FIELD_INITIALIZERS YES    setenv GCC_WARN_ABOUT_MISSING_NEWLINE YES    setenv GCC_WARN_ABOUT_MISSING_PROTOTYPES YES    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_CHECK_SWITCH_STATEMENTS YES    setenv GCC_WARN_INITIALIZER_NOT_FULLY_BRACKETED YES    setenv GCC_WARN_MISSING_PARENTHESES NO    setenv GCC_WARN_MULTIPLE_DEFINITION_TYPES_FOR_SELECTOR NO    setenv GCC_WARN_SIGN_COMPARE YES    setenv GCC_WARN_UNINITIALIZED_AUTOS NO    setenv GCC_WARN_UNUSED_VALUE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE UnitTests-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH UnitTests.octest/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH UnitTests.octest/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/CorePlot.dst/Users/alb/Library/Bundles    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER alb    setenv INSTALL_PATH /Users/alb/Library/Bundles    setenv INSTALL_ROOT /tmp/CorePlot.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH UnitTests.octest/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEGACY_DEVELOPER_DIR /Developer/Library/Xcode/PrivatePlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal/i386/UnitTests.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH UnitTests.octest/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_bundle    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 10J567    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL i386    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Objects-normal    setenv OBJROOT /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-framework Cocoa -framework SenTestingKit"    setenv PACKAGE_TYPE com.apple.package-type.wrapper    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH UnitTests.octest/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/PkgInfo    setenv PKGINFO_PATH UnitTests.octest/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/MacOSX.platform    setenv PLATFORM_NAME macosx    setenv PLATFORM_PREFERRED_ARCH x86_64    setenv PLATFORM_PRODUCT_BUILD_VERSION 4A304a    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH UnitTests.octest/Contents/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH UnitTests.octest/Contents/PrivateHeaders    setenv PRODUCT_NAME UnitTests    setenv PRODUCT_SETTINGS_PATH /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/UnitTests-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.bundle    setenv PROFILING_CODE NO    setenv PROJECT CorePlot    setenv PROJECT_DERIVED_FILE_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/DerivedSources    setenv PROJECT_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv PROJECT_FILE_PATH /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/CorePlot.xcodeproj    setenv PROJECT_NAME CorePlot    setenv PROJECT_TEMP_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build    setenv PUBLIC_HEADERS_FOLDER_PATH UnitTests.octest/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH UnitTests.octest/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_DIR /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_NAME macosx10.6    setenv SDK_PRODUCT_BUILD_VERSION 4A304a    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH UnitTests.octest/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH UnitTests.octest/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv SRCROOT /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT NO    setenv STRIP_STYLE debugging    setenv SUPPORTED_PLATFORMS macosx    setenv SYMBOL_REPOSITORY_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/SymbolRepositories    setenv SYMROOT /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME UnitTests    setenv TARGET_BUILD_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug    setenv TARGET_NAME UnitTests    setenv TARGET_TEMP_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build    setenv TEMP_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build    setenv TEMP_FILES_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build    setenv TEMP_FILE_DIR /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build    setenv TEMP_ROOT /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build    setenv TEST_AFTER_BUILD NO    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH UnitTests.octest/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER alb    setenv USER_APPS_DIR /Users/alb/Applications    setenv USER_LIBRARY_DIR /Users/alb/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH UnitTests.octest/Contents/version.plist    setenv VERSION_INFO_BUILDER alb    setenv VERSION_INFO_FILE UnitTests_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:UnitTests  PROJECT:CorePlot-\""    setenv WRAPPER_EXTENSION octest    setenv WRAPPER_NAME UnitTests.octest    setenv WRAPPER_SUFFIX .octest    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4A304a    setenv XCODE_VERSION_ACTUAL 0400    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/Script-0730F5FE109492D800E95162.sh
+
+CProcessInfoPlistFile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/Info.plist UnitTests-Info.plist
+s373847115.811698
+e373847115.822409
+r1
+xProcessInfoPlistFile
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/Info.plist
+xUnitTests-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process UnitTests-Info.plist27dccf4b7448b641^8a90d24b7448b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/UnitTests-Info.plist0000000000000000^352"ProcessInfoPlistFile ../build/Debug/UnitTests.octest/Contents/Info.plist UnitTests-Info.plist    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    builtin-infoPlistUtility UnitTests-Info.plist -expandbuildsettings -platform macosx -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest/Contents/Info.plist
+
+CProcessPCH /Users/alb/Library/Developer/Xcode/DerivedData/CPTTestApp-diowmcbdxtvttzgxpikzfmsudqso/Index/PrecompiledHeaders/Cocoa-focwvvkehlzrxeazoofnccymuadg_ast/Cocoa.h.pth /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h.pth /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373847115.824600
+e373847117.022642
+r1
+xProcessPCH
+x/var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h.pth
+x/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.he42dd34b7448b641^4fe8054d7448b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h0000000000000000^2141"ProcessPCH /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h.pth /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wmissing-field-initializers -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wno-parentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wsign-compare -Wnewline-eof -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/UnitTests-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/CorePlot.build/Debug/UnitTests.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug -F/Developer/Library/Frameworks -c /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h -o /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa-gcmrdbsngsvrzgckdstsqiorlnej/Cocoa.h.pth
+
+CTouch /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest
+s373847121.889534
+e373847121.930052
+r1
+xTouch
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Touch /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octestc4cfe3517448b641^f71eee517448b641^---0#0#0#--207"Touch ../build/Debug/UnitTests.octest    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework    /usr/bin/touch -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/../build/Debug/UnitTests.octest
+

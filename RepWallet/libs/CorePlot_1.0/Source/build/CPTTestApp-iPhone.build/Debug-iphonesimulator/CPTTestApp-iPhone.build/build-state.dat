@@ -1,0 +1,976 @@
+TCPTTestApp-iPhone
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/Info.plist Info.plist
+cCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/MainWindow.xib
+cCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/BarChart.xib
+cCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/ScatterPlot.xib
+cCpResource CorePlotIcon.png ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CorePlotIcon.png
+cCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/PieChart.xib
+cCpResource GlyphishIcons/16-line-chart.png ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/16-line-chart.png
+cCpResource GlyphishIcons/17-bar-chart.png ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/17-bar-chart.png
+cCpResource GlyphishIcons/62-contrast.png ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/62-contrast.png
+cProcessPCH /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_iPhone_Prefix-dmgvymsrmsrizzbitfunazcsyoxf/CPTTestApp_iPhone_Prefix.pch.gch CPTTestApp_iPhone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestApp_iPhoneAppDelegate.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestApp_iPhoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/main.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppBarChartController.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppBarChartController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppScatterPlotController.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppScatterPlotController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppPieChartController.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppPieChartController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CPTTestApp-iPhone normal i386
+cGenerateDSYMFile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app.dSYM /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CPTTestApp-iPhone
+cTouch /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/TargetConditionals.h
+c000000004D4F7A2B00000000000031E9
+t1297054251
+s12777
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug-iphonesimulator/libCorePlot-CocoaTouch.a
+c0000000050983DF6000000000029BE70
+t1352154614
+s2735728
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestApp-iPhone.LinkFileList
+c0000000050983DF600000000000003E7
+t1352154614
+s999
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppBarChartController.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppPieChartController.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppScatterPlotController.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestApp_iPhoneAppDelegate.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app.dSYM
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/16-line-chart.png
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/17-bar-chart.png
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/62-contrast.png
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/BarChart.nib
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CPTTestApp-iPhone
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CorePlotIcon.png
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/Info.plist
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/MainWindow.nib
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/PieChart.nib
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/PkgInfo
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/ScatterPlot.nib
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/BarChart.xib
+c000000004E978B180000000000003F9F
+t1318554392
+s16287
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/CPTTestApp_iPhone_Prefix.pch
+c000000004E978B1800000000000000CB
+t1318554392
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppBarChartController.h
+c000000004F4118B90000000000000151
+t1329666233
+s337
+i"CorePlot-CocoaTouch.h"
+i<UIKit/UIKit.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppBarChartController.m
+c000000004F4118B90000000000001644
+t1329666233
+s5700
+i"CPTTestAppBarChartController.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppPieChartController.h
+c000000004F4118B90000000000000190
+t1329666233
+s400
+i"CorePlot-CocoaTouch.h"
+i<UIKit/UIKit.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppPieChartController.m
+c000000004F4118B900000000000015F3
+t1329666233
+s5619
+i"CPTTestAppPieChartController.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppScatterPlotController.h
+c000000004F4118B9000000000000018E
+t1329666233
+s398
+i"CorePlot-CocoaTouch.h"
+i<UIKit/UIKit.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppScatterPlotController.m
+c000000004F4118B9000000000000215A
+t1329666233
+s8538
+i"CPTTestAppScatterPlotController.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestApp_iPhoneAppDelegate.h
+c000000004F4118B80000000000000236
+t1329666232
+s566
+i<UIKit/UIKit.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestApp_iPhoneAppDelegate.m
+c000000004F4118B9000000000000039E
+t1329666233
+s926
+i"CPTTestApp_iPhoneAppDelegate.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/CorePlotIcon.png
+c000000004E978AC900000000000013FF
+t1318554313
+s5119
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/GlyphishIcons/16-line-chart.png
+c000000004E978AC90000000000000226
+t1318554313
+s550
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/GlyphishIcons/17-bar-chart.png
+c000000004E978AC900000000000000B5
+t1318554313
+s181
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/GlyphishIcons/62-contrast.png
+c000000004E978AC900000000000001A8
+t1318554313
+s424
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/MainWindow.xib
+c000000004E978B180000000000006AC3
+t1318554392
+s27331
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/PieChart.xib
+c000000004E978B180000000000003F56
+t1318554392
+s16214
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/ScatterPlot.xib
+c000000004E978B180000000000003F55
+t1318554392
+s16213
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/main.m
+c000000004F4118B9000000000000012B
+t1329666233
+s299
+i<UIKit/UIKit.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/CorePlot-CocoaTouch.h
+c000000004F4118BB000000000000066E
+t1329666235
+s1646
+i"CPTAnnotation.h"
+i"CPTAnnotationHostLayer.h"
+i"CPTAxis.h"
+i"CPTAxisLabel.h"
+i"CPTAxisSet.h"
+i"CPTAxisTitle.h"
+i"CPTBarPlot.h"
+i"CPTBorderedLayer.h"
+i"CPTColor.h"
+i"CPTColorSpace.h"
+i"CPTConstraints.h"
+i"CPTDefinitions.h"
+i"CPTExceptions.h"
+i"CPTFill.h"
+i"CPTGradient.h"
+i"CPTGraph.h"
+i"CPTGraphHostingView.h"
+i"CPTImage.h"
+i"CPTLayer.h"
+i"CPTLayerAnnotation.h"
+i"CPTLegend.h"
+i"CPTLegendEntry.h"
+i"CPTLimitBand.h"
+i"CPTLineCap.h"
+i"CPTLineStyle.h"
+i"CPTMutableLineStyle.h"
+i"CPTMutableNumericData.h"
+i"CPTMutableNumericData+TypeConversion.h"
+i"CPTMutablePlotRange.h"
+i"CPTMutableShadow.h"
+i"CPTMutableTextStyle.h"
+i"CPTNumericData.h"
+i"CPTNumericData+TypeConversion.h"
+i"CPTNumericDataType.h"
+i"CPTPieChart.h"
+i"CPTPlatformSpecificDefines.h"
+i"CPTPlatformSpecificFunctions.h"
+i"CPTPlatformSpecificCategories.h"
+i"CPTPathExtensions.h"
+i"CPTPlot.h"
+i"CPTPlotArea.h"
+i"CPTPlotAreaFrame.h"
+i"CPTPlotRange.h"
+i"CPTPlotSpace.h"
+i"CPTPlotSpaceAnnotation.h"
+i"CPTPlotSymbol.h"
+i"CPTRangePlot.h"
+i"CPTResponder.h"
+i"CPTScatterPlot.h"
+i"CPTShadow.h"
+i"CPTTextLayer.h"
+i"CPTTextStyle.h"
+i"CPTTheme.h"
+i"CPTTimeFormatter.h"
+i"CPTTradingRangePlot.h"
+i"CPTUtilities.h"
+i"CPTXYAxis.h"
+i"CPTXYAxisSet.h"
+i"CPTXYGraph.h"
+i"CPTXYPlotSpace.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAnnotation.h
+c000000004F4118BD00000000000003B7
+t1329666237
+s951
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAnnotationHostLayer.h
+c000000004F4118BE000000000000017B
+t1329666238
+s379
+i"CPTLayer.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxis.h
+c000000004F4118BE00000000000022CD
+t1329666238
+s8909
+i"CPTDefinitions.h"
+i"CPTLayer.h"
+i"CPTTextStyle.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisLabel.h
+c000000004F4118BE0000000000000419
+t1329666238
+s1049
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisSet.h
+c000000004F4118BE0000000000000166
+t1329666238
+s358
+i"CPTLayer.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTAxisTitle.h
+c000000004F4118BE000000000000006D
+t1329666238
+s109
+i"CPTAxisLabel.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTBarPlot.h
+c000000004F4118BE0000000000000F07
+t1329666238
+s3847
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTBorderedLayer.h
+c000000004F4118BF0000000000000162
+t1329666239
+s354
+i"CPTAnnotationHostLayer.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColor.h
+c000000004F4118BF0000000000000449
+t1329666239
+s1097
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTColorSpace.h
+c000000004F4118BF0000000000000198
+t1329666239
+s408
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTConstraints.h
+c000000004F4118BF00000000000003B4
+t1329666239
+s948
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTDefinitions.h
+c000000004F4118C00000000000000F6A
+t1329666240
+s3946
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+i<Availability.h>
+i<TargetConditionals.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTExceptions.h
+c000000004F4118C000000000000000E1
+t1329666240
+s225
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTFill.h
+c000000004F4118C00000000000000352
+t1329666240
+s850
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGradient.h
+c000000004F4118C00000000000000C0A
+t1329666240
+s3082
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTGraph.h
+c000000004F4118C10000000000000DB8
+t1329666241
+s3512
+i"CPTBorderedLayer.h"
+i"CPTDefinitions.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTImage.h
+c000000004F4118C100000000000003CB
+t1329666241
+s971
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLayer.h
+c000000004F4118C10000000000000A7A
+t1329666241
+s2682
+i"CPTDefinitions.h"
+i"CPTResponder.h"
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLayerAnnotation.h
+c000000004F4118C100000000000001FA
+t1329666241
+s506
+i"CPTAnnotation.h"
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLegend.h
+c000000004F4118C20000000000000FFE
+t1329666242
+s4094
+i"CPTBorderedLayer.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLegendEntry.h
+c000000004F4118C20000000000000392
+t1329666242
+s914
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLimitBand.h
+c000000004F4118C2000000000000021E
+t1329666242
+s542
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineCap.h
+c000000004F4118C20000000000000859
+t1329666242
+s2137
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTLineStyle.h
+c000000004F4118C20000000000000418
+t1329666242
+s1048
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableLineStyle.h
+c000000004F4118C20000000000000236
+t1329666242
+s566
+i"CPTLineStyle.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericData+TypeConversion.h
+c000000004F4118C200000000000002BD
+t1329666242
+s701
+i"CPTMutableNumericData.h"
+i"CPTNumericDataType.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableNumericData.h
+c000000004F4118C20000000000000302
+t1329666242
+s770
+i"CPTNumericData.h"
+i"CPTNumericDataType.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutablePlotRange.h
+c000000004F4118C30000000000000277
+t1329666243
+s631
+i"CPTPlotRange.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableShadow.h
+c000000004F4118C30000000000000161
+t1329666243
+s353
+i"CPTShadow.h"
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTMutableTextStyle.h
+c000000004F4118C3000000000000017E
+t1329666243
+s382
+i"CPTTextStyle.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericData+TypeConversion.h
+c000000004F4118C3000000000000032D
+t1329666243
+s813
+i"CPTNumericData.h"
+i"CPTNumericDataType.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericData.h
+c000000004F4118C300000000000007F0
+t1329666243
+s2032
+i"CPTNumericDataType.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTNumericDataType.h
+c000000004F4118C4000000000000051A
+t1329666244
+s1306
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPathExtensions.h
+c000000004F4118C40000000000000125
+t1329666244
+s293
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPieChart.h
+c000000004F4118C40000000000000D54
+t1329666244
+s3412
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlot.h
+c000000004F4118C40000000000001E53
+t1329666244
+s7763
+i"CPTAnnotationHostLayer.h"
+i"CPTDefinitions.h"
+i"CPTMutableTextStyle.h"
+i"CPTNumericDataType.h"
+i"CPTPlotRange.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotArea.h
+c000000004F4118C50000000000000662
+t1329666245
+s1634
+i"CPTAnnotationHostLayer.h"
+i"CPTGraph.h"
+i"CPTLayer.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotAreaFrame.h
+c000000004F4118C50000000000000176
+t1329666245
+s374
+i"CPTBorderedLayer.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotRange.h
+c000000004F4118C50000000000000780
+t1329666245
+s1920
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSpace.h
+c000000004F4118C50000000000001733
+t1329666245
+s5939
+i"CPTDefinitions.h"
+i"CPTResponder.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSpaceAnnotation.h
+c000000004F4118C5000000000000019B
+t1329666245
+s411
+i"CPTAnnotation.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTPlotSymbol.h
+c000000004F4118C50000000000000964
+t1329666245
+s2404
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTRangePlot.h
+c000000004F4118C60000000000000521
+t1329666246
+s1313
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTResponder.h
+c000000004F4118C600000000000006A9
+t1329666246
+s1705
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTScatterPlot.h
+c000000004F4118C60000000000000DF6
+t1329666246
+s3574
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTShadow.h
+c000000004F4118C60000000000000245
+t1329666246
+s581
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextLayer.h
+c000000004F4118C60000000000000247
+t1329666246
+s583
+i"CPTLayer.h"
+i"CPTTextStyle.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTextStyle.h
+c000000004F4118C600000000000004BD
+t1329666246
+s1213
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTheme.h
+c000000004F4118C70000000000000477
+t1329666247
+s1143
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTimeFormatter.h
+c000000004F4118C70000000000000199
+t1329666247
+s409
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTTradingRangePlot.h
+c000000004F4118C70000000000000892
+t1329666247
+s2194
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTUtilities.h
+c000000004F4118C70000000000000E24
+t1329666247
+s3620
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYAxis.h
+c000000004F4118C80000000000000183
+t1329666248
+s387
+i"CPTAxis.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYAxisSet.h
+c000000004F4118C800000000000000F1
+t1329666248
+s241
+i"CPTAxisSet.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYGraph.h
+c000000004F4118C80000000000000157
+t1329666248
+s343
+i"CPTDefinitions.h"
+i"CPTGraph.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/Source/CPTXYPlotSpace.h
+c000000004F4118C800000000000002D3
+t1329666248
+s723
+i"CPTDefinitions.h"
+i"CPTPlotSpace.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/iPhoneOnly/CPTGraphHostingView.h
+c000000004F4118BB00000000000001B4
+t1329666235
+s436
+i"CPTDefinitions.h"
+i<UIKit/UIKit.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/iPhoneOnly/CPTPlatformSpecificCategories.h
+c000000004F4118BB00000000000003AD
+t1329666235
+s941
+i"CPTColor.h"
+i"CPTLayer.h"
+i"CPTPlatformSpecificDefines.h"
+i<UIKit/UIKit.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/iPhoneOnly/CPTPlatformSpecificDefines.h
+c000000004F4118BB000000000000005B
+t1329666235
+s91
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/framework/iPhoneOnly/CPTPlatformSpecificFunctions.h
+c000000004F4118BC0000000000000161
+t1329666236
+s353
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_iPhone_Prefix-dmgvymsrmsrizzbitfunazcsyoxf/CPTTestApp_iPhone_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004E978B18000000000000037F
+t1318554392
+s895
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppBarChartController.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppPieChartController.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppScatterPlotController.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestApp_iPhoneAppDelegate.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8a9446767548b641^be1254767548b641^---0#1#0#--18"Check dependencies
+
+CCompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppBarChartController.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppBarChartController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373847416.684221
+e373847416.897022
+r1
+xCompileC
+x../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppBarChartController.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppBarChartController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppBarChartController.mdb88af787548b641^0b60e6787548b641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppBarChartController.m0000000000000000^2972"CompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppBarChartController.o Classes/CPTTestAppBarChartController.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-project-headers.hmap -iquote../../framework -iquote../../framework/iPhoneOnly -iquote../../framework/MacOnly -iquote../../framework/Source -iquote../../framework/TestResources -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_iPhone_Prefix-dmgvymsrmsrizzbitfunazcsyoxf/CPTTestApp_iPhone_Prefix.pch -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppBarChartController.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppBarChartController.o
+
+CCompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppPieChartController.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppPieChartController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373847417.154332
+e373847417.346339
+r1
+xCompileC
+x../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppPieChartController.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppPieChartController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppPieChartController.mffcd27797548b641^2bbf58797548b641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppPieChartController.m0000000000000000^2972"CompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppPieChartController.o Classes/CPTTestAppPieChartController.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-project-headers.hmap -iquote../../framework -iquote../../framework/iPhoneOnly -iquote../../framework/MacOnly -iquote../../framework/Source -iquote../../framework/TestResources -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_iPhone_Prefix-dmgvymsrmsrizzbitfunazcsyoxf/CPTTestApp_iPhone_Prefix.pch -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppPieChartController.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppPieChartController.o
+
+CCompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppScatterPlotController.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppScatterPlotController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373847416.897644
+e373847417.149801
+r1
+xCompileC
+x../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppScatterPlotController.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppScatterPlotController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppScatterPlotController.m471ce6787548b641^077c26797548b641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppScatterPlotController.m0000000000000000^2984"CompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppScatterPlotController.o Classes/CPTTestAppScatterPlotController.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-project-headers.hmap -iquote../../framework -iquote../../framework/iPhoneOnly -iquote../../framework/MacOnly -iquote../../framework/Source -iquote../../framework/TestResources -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_iPhone_Prefix-dmgvymsrmsrizzbitfunazcsyoxf/CPTTestApp_iPhone_Prefix.pch -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestAppScatterPlotController.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestAppScatterPlotController.o
+
+CCompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestApp_iPhoneAppDelegate.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestApp_iPhoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373847416.464996
+e373847416.580572
+r1
+xCompileC
+x../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestApp_iPhoneAppDelegate.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestApp_iPhoneAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestApp_iPhoneAppDelegate.mf86e77787548b641^1f4d95787548b641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestApp_iPhoneAppDelegate.m0000000000000000^2972"CompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestApp_iPhoneAppDelegate.o Classes/CPTTestApp_iPhoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-project-headers.hmap -iquote../../framework -iquote../../framework/iPhoneOnly -iquote../../framework/MacOnly -iquote../../framework/Source -iquote../../framework/TestResources -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_iPhone_Prefix-dmgvymsrmsrizzbitfunazcsyoxf/CPTTestApp_iPhone_Prefix.pch -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Classes/CPTTestApp_iPhoneAppDelegate.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestApp_iPhoneAppDelegate.o
+
+CCompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/main.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s373847416.581046
+e373847416.683470
+r1
+xCompileC
+x../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/main.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/main.m062c95787548b641^c2a5af787548b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/main.m0000000000000000^2860"CompileC ../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-project-headers.hmap -iquote../../framework -iquote../../framework/iPhoneOnly -iquote../../framework/MacOnly -iquote../../framework/Source -iquote../../framework/TestResources -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_iPhone_Prefix-dmgvymsrmsrizzbitfunazcsyoxf/CPTTestApp_iPhone_Prefix.pch -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/main.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/main.o
+
+CCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/BarChart.xib
+s373847414.825417
+e373847415.293335
+r1
+xCompileXIB
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/BarChart.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compiling /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/BarChart.xibff97d3767548b641^3a1e4b777548b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/BarChart.xib0000000000000000^711"CompileXIB BarChart.xib    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/BarChart.nib /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/BarChart.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/MainWindow.xib
+s373847414.353920
+e373847414.824640
+r1
+xCompileXIB
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compiling /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/MainWindow.xibdaa85a767548b641^b1c0d3767548b641^-84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)-0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/MainWindow.xib0000000000000000^717"CompileXIB MainWindow.xib    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/MainWindow.nib /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/PieChart.xib
+s373847415.386113
+e373847415.472078
+r1
+xCompileXIB
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/PieChart.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compiling /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/PieChart.xib4cfb62777548b641^3df178777548b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/PieChart.xib0000000000000000^711"CompileXIB PieChart.xib    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/PieChart.nib /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/PieChart.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/ScatterPlot.xib
+s373847415.294176
+e373847415.376926
+r1
+xCompileXIB
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/ScatterPlot.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compiling /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/ScatterPlot.xib63624b777548b641^539360777548b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/ScatterPlot.xib0000000000000000^720"CompileXIB ScatterPlot.xib    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/ScatterPlot.nib /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/ScatterPlot.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCpResource CorePlotIcon.png ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CorePlotIcon.png
+s373847415.378058
+e373847415.385634
+r1
+xCpResource
+xCorePlotIcon.png
+x../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CorePlotIcon.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CorePlotIcon.png8cf660777548b641^2ac562777548b641^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CorePlotIcon.png0000005c1fffdbc1^624"CpResource CorePlotIcon.png ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CorePlotIcon.png    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/CorePlotIcon.png /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app
+
+CCpResource GlyphishIcons/16-line-chart.png ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/16-line-chart.png
+s373847415.473422
+e373847415.489743
+r1
+xCpResource
+xGlyphishIcons/16-line-chart.png
+x../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/16-line-chart.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/16-line-chart.pngfe5f79777548b641^6f657d777548b641^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/16-line-chart.png0000005c1fffdbc1^655"CpResource GlyphishIcons/16-line-chart.png ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/16-line-chart.png    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/GlyphishIcons/16-line-chart.png /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app
+
+CCpResource GlyphishIcons/17-bar-chart.png ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/17-bar-chart.png
+s373847415.490050
+e373847415.495048
+r1
+xCpResource
+xGlyphishIcons/17-bar-chart.png
+x../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/17-bar-chart.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/17-bar-chart.png548e7d777548b641^69fc7e777548b641^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/17-bar-chart.png0000005c1fffdbc1^652"CpResource GlyphishIcons/17-bar-chart.png ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/17-bar-chart.png    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/GlyphishIcons/17-bar-chart.png /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app
+
+CCpResource GlyphishIcons/62-contrast.png ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/62-contrast.png
+s373847415.495192
+e373847415.501133
+r1
+xCpResource
+xGlyphishIcons/62-contrast.png
+x../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/62-contrast.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/62-contrast.pngf4e07e777548b641^6c7680777548b641^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/62-contrast.png0000005c1fffdbc1^649"CpResource GlyphishIcons/62-contrast.png ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/62-contrast.png    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/GlyphishIcons/62-contrast.png /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app
+
+CGenerateDSYMFile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app.dSYM /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CPTTestApp-iPhone
+s373847417.832774
+e373847418.057526
+r1
+xGenerateDSYMFile
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app.dSYM
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CPTTestApp-iPhone
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Generating /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app.dSYMc860d5797548b641^8ae90e7a7548b641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app.dSYM0000005c1fffdbc1^673"GenerateDSYMFile ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app.dSYM ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CPTTestApp-iPhone    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CPTTestApp-iPhone -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app.dSYM
+
+CLd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CPTTestApp-iPhone normal i386
+s373847417.347512
+e373847417.830594
+r1
+xLd
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CPTTestApp-iPhone
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Link /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CPTTestApp-iPhone1a3359797548b641^7ac4d4797548b641^---0#0#0#--1358"Ld ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CPTTestApp-iPhone normal i386    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator -filelist /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/Objects-normal/i386/CPTTestApp-iPhone.LinkFileList -mmacosx-version-min=10.6 -all_load -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug-iphonesimulator/libCorePlot-CocoaTouch.a -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/CPTTestApp-iPhone
+
+CProcessInfoPlistFile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/Info.plist Info.plist
+s373847414.343102
+e373847414.352062
+r1
+xProcessInfoPlistFile
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/Info.plist
+xInfo.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist32e957767548b641^3e265a767548b641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/Info.plist0000000000000000^698"ProcessInfoPlistFile ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/Info.plist Info.plist    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app/Info.plist
+
+CProcessPCH /Users/alb/Library/Developer/Xcode/DerivedData/CPTTestApp-iPhone-dwaodzbxzergawdfmcveingcuvxp/Index/PrecompiledHeaders/CPTTestApp_iPhone_Prefix-bdjplrkbicrftxcyvvqjbyyumcdm_ast/CPTTestApp_iPhone_Prefix.pch.pth CPTTestApp_iPhone_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_iPhone_Prefix-dmgvymsrmsrizzbitfunazcsyoxf/CPTTestApp_iPhone_Prefix.pch.gch CPTTestApp_iPhone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s373847415.503240
+e373847416.460997
+r1
+xProcessPCH
+x/var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_iPhone_Prefix-dmgvymsrmsrizzbitfunazcsyoxf/CPTTestApp_iPhone_Prefix.pch.gch
+xCPTTestApp_iPhone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile CPTTestApp_iPhone_Prefix.pch22ff80777548b641^5e9e76787548b641^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/CPTTestApp_iPhone_Prefix.pch0000000000000000^2804"ProcessPCH /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_iPhone_Prefix-dmgvymsrmsrizzbitfunazcsyoxf/CPTTestApp_iPhone_Prefix.pch.gch CPTTestApp_iPhone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30103 -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/CPTTestApp-iPhone-project-headers.hmap -iquote../../framework -iquote../../framework/iPhoneOnly -iquote../../framework/MacOnly -iquote../../framework/Source -iquote../../framework/TestResources -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/CPTTestApp-iPhone.build/Debug-iphonesimulator/CPTTestApp-iPhone.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/CPTTestApp_iPhone_Prefix.pch -o /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_iPhone_Prefix-dmgvymsrmsrizzbitfunazcsyoxf/CPTTestApp_iPhone_Prefix.pch.gch
+
+CTouch /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app
+s373847418.061912
+e373847418.112589
+r1
+xTouch
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Touch /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.appcb0f107a7548b641^23dc1c7a7548b641^---0#0#0#--420"Touch ../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp-iPhone/../../build/Debug-iphonesimulator/CPTTestApp-iPhone.app
+

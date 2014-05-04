@@ -1,0 +1,1000 @@
+TCPTTestApp
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/CPTTestApp.xib
+cCpResource CorePlotIcon.icns ../../build/Debug/CPTTestApp.app/Contents/Resources/CorePlotIcon.icns
+cCpResource Resources/BlueTexture.png ../../build/Debug/CPTTestApp.app/Contents/Resources/BlueTexture.png
+cCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/PlotSymbolDemo.xib
+cCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/AxisDemo.xib
+cCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/SelectionDemo.xib
+cPBXCp /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework ../../build/Debug/CPTTestApp.app/Contents/Frameworks/CorePlot.framework
+cProcessPCH /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_Prefix-enscotzrxlskwhaqqxeswbhaheff/CPTTestApp_Prefix.pch.gch CPTTestApp_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/RotationView.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/RotationView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/main.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/Controller.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/Controller.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/CPTPlotSymbolTestController.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/CPTPlotSymbolTestController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/AxisDemoController.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/AxisDemoController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/SelectionDemoController.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/SelectionDemoController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/MacOS/CPTTestApp normal i386
+cTouch /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D66164C00000000000000EE
+t1298536012
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004CC4198400000000000017ED
+t1287920004
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC401D100000000000013E6
+t1287913937
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC4130B00000000000000BF
+t1287918347
+s191
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/Availability.h
+c000000004A8D4DF700000000000019DB
+t1250774519
+s6619
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/TargetConditionals.h
+c000000004A8D4DF700000000000031E9
+t1250774519
+s12777
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework
+c0000000050983C7E00000000000000EE
+t1352154238
+s238
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/CorePlot
+c0000000050983C7E0000000000104A18
+t1352154238
+s1067544
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTAnnotation.h
+c0000000050983C6600000000000003B7
+t1352154214
+s951
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTAnnotationHostLayer.h
+c0000000050983C66000000000000017B
+t1352154214
+s379
+i"CPTLayer.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTAxis.h
+c0000000050983C6500000000000022CD
+t1352154213
+s8909
+i"CPTDefinitions.h"
+i"CPTLayer.h"
+i"CPTTextStyle.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTAxisLabel.h
+c0000000050983C650000000000000419
+t1352154213
+s1049
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTAxisSet.h
+c0000000050983C650000000000000166
+t1352154213
+s358
+i"CPTLayer.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTAxisTitle.h
+c0000000050983C65000000000000006D
+t1352154213
+s109
+i"CPTAxisLabel.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTBarPlot.h
+c0000000050983C650000000000000F07
+t1352154213
+s3847
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTBorderedLayer.h
+c0000000050983C650000000000000162
+t1352154213
+s354
+i"CPTAnnotationHostLayer.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTColor.h
+c0000000050983C650000000000000449
+t1352154213
+s1097
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTColorSpace.h
+c0000000050983C650000000000000198
+t1352154213
+s408
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTConstraints.h
+c0000000050983C6600000000000003B4
+t1352154214
+s948
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTDecimalNumberValueTransformer.h
+c0000000050983C65000000000000006E
+t1352154213
+s110
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTDefinitions.h
+c0000000050983C650000000000000F6A
+t1352154213
+s3946
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+i<Availability.h>
+i<TargetConditionals.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTExceptions.h
+c0000000050983C6500000000000000E1
+t1352154213
+s225
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTFill.h
+c0000000050983C650000000000000352
+t1352154213
+s850
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTGradient.h
+c0000000050983C650000000000000C0A
+t1352154213
+s3082
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTGraph.h
+c0000000050983C650000000000000DB8
+t1352154213
+s3512
+i"CPTBorderedLayer.h"
+i"CPTDefinitions.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTGraphHostingView.h
+c0000000050983C6500000000000000C0
+t1352154213
+s192
+i<Cocoa/Cocoa.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTImage.h
+c0000000050983C6500000000000003CB
+t1352154213
+s971
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTLayer.h
+c0000000050983C650000000000000A7A
+t1352154213
+s2682
+i"CPTDefinitions.h"
+i"CPTResponder.h"
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTLayerAnnotation.h
+c0000000050983C6600000000000001FA
+t1352154214
+s506
+i"CPTAnnotation.h"
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTLegend.h
+c0000000050983C660000000000000FFE
+t1352154214
+s4094
+i"CPTBorderedLayer.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTLegendEntry.h
+c0000000050983C660000000000000392
+t1352154214
+s914
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTLimitBand.h
+c0000000050983C66000000000000021E
+t1352154214
+s542
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTLineCap.h
+c0000000050983C660000000000000859
+t1352154214
+s2137
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTLineStyle.h
+c0000000050983C650000000000000418
+t1352154213
+s1048
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTMutableLineStyle.h
+c0000000050983C660000000000000236
+t1352154214
+s566
+i"CPTLineStyle.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTMutableNumericData+TypeConversion.h
+c0000000050983C6600000000000002BD
+t1352154214
+s701
+i"CPTMutableNumericData.h"
+i"CPTNumericDataType.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTMutableNumericData.h
+c0000000050983C660000000000000302
+t1352154214
+s770
+i"CPTNumericData.h"
+i"CPTNumericDataType.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTMutablePlotRange.h
+c0000000050983C660000000000000277
+t1352154214
+s631
+i"CPTPlotRange.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTMutableShadow.h
+c0000000050983C660000000000000161
+t1352154214
+s353
+i"CPTShadow.h"
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTMutableTextStyle.h
+c0000000050983C65000000000000017E
+t1352154213
+s382
+i"CPTTextStyle.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTNumericData+TypeConversion.h
+c0000000050983C66000000000000032D
+t1352154214
+s813
+i"CPTNumericData.h"
+i"CPTNumericDataType.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTNumericData.h
+c0000000050983C6600000000000007F0
+t1352154214
+s2032
+i"CPTNumericDataType.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTNumericDataType.h
+c0000000050983C66000000000000051A
+t1352154214
+s1306
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTPathExtensions.h
+c0000000050983C650000000000000125
+t1352154213
+s293
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTPieChart.h
+c0000000050983C650000000000000D54
+t1352154213
+s3412
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTPlatformSpecificCategories.h
+c0000000050983C65000000000000026F
+t1352154213
+s623
+i"CPTColor.h"
+i"CPTLayer.h"
+i"CPTPlatformSpecificDefines.h"
+i<AppKit/AppKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTPlatformSpecificDefines.h
+c0000000050983C65000000000000008B
+t1352154213
+s139
+i<AppKit/AppKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTPlatformSpecificFunctions.h
+c0000000050983C650000000000000219
+t1352154213
+s537
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTPlot.h
+c0000000050983C650000000000001E53
+t1352154213
+s7763
+i"CPTAnnotationHostLayer.h"
+i"CPTDefinitions.h"
+i"CPTMutableTextStyle.h"
+i"CPTNumericDataType.h"
+i"CPTPlotRange.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTPlotArea.h
+c0000000050983C660000000000000662
+t1352154214
+s1634
+i"CPTAnnotationHostLayer.h"
+i"CPTGraph.h"
+i"CPTLayer.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTPlotAreaFrame.h
+c0000000050983C650000000000000176
+t1352154213
+s374
+i"CPTBorderedLayer.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTPlotRange.h
+c0000000050983C650000000000000780
+t1352154213
+s1920
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTPlotSpace.h
+c0000000050983C650000000000001733
+t1352154213
+s5939
+i"CPTDefinitions.h"
+i"CPTResponder.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTPlotSpaceAnnotation.h
+c0000000050983C66000000000000019B
+t1352154214
+s411
+i"CPTAnnotation.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTPlotSymbol.h
+c0000000050983C660000000000000964
+t1352154214
+s2404
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTRangePlot.h
+c0000000050983C660000000000000521
+t1352154214
+s1313
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTResponder.h
+c0000000050983C6600000000000006A9
+t1352154214
+s1705
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTScatterPlot.h
+c0000000050983C650000000000000DF6
+t1352154213
+s3574
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTShadow.h
+c0000000050983C660000000000000245
+t1352154214
+s581
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTTextLayer.h
+c0000000050983C650000000000000247
+t1352154213
+s583
+i"CPTLayer.h"
+i"CPTTextStyle.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTTextStyle.h
+c0000000050983C6600000000000004BD
+t1352154214
+s1213
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTTheme.h
+c0000000050983C650000000000000477
+t1352154213
+s1143
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTTimeFormatter.h
+c0000000050983C660000000000000199
+t1352154214
+s409
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTTradingRangePlot.h
+c0000000050983C660000000000000892
+t1352154214
+s2194
+i"CPTDefinitions.h"
+i"CPTPlot.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTUtilities.h
+c0000000050983C650000000000000E24
+t1352154213
+s3620
+i"CPTDefinitions.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTXYAxis.h
+c0000000050983C650000000000000183
+t1352154213
+s387
+i"CPTAxis.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTXYAxisSet.h
+c0000000050983C6500000000000000F1
+t1352154213
+s241
+i"CPTAxisSet.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTXYGraph.h
+c0000000050983C650000000000000157
+t1352154213
+s343
+i"CPTDefinitions.h"
+i"CPTGraph.h"
+i<Foundation/Foundation.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CPTXYPlotSpace.h
+c0000000050983C6500000000000002D3
+t1352154213
+s723
+i"CPTDefinitions.h"
+i"CPTPlotSpace.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/Headers/CorePlot.h
+c0000000050983C6500000000000008C0
+t1352154213
+s2240
+i<CorePlot/CPTAnnotation.h>
+i<CorePlot/CPTAnnotationHostLayer.h>
+i<CorePlot/CPTAxis.h>
+i<CorePlot/CPTAxisLabel.h>
+i<CorePlot/CPTAxisSet.h>
+i<CorePlot/CPTAxisTitle.h>
+i<CorePlot/CPTBarPlot.h>
+i<CorePlot/CPTBorderedLayer.h>
+i<CorePlot/CPTColor.h>
+i<CorePlot/CPTColorSpace.h>
+i<CorePlot/CPTConstraints.h>
+i<CorePlot/CPTDecimalNumberValueTransformer.h>
+i<CorePlot/CPTDefinitions.h>
+i<CorePlot/CPTExceptions.h>
+i<CorePlot/CPTFill.h>
+i<CorePlot/CPTGradient.h>
+i<CorePlot/CPTGraph.h>
+i<CorePlot/CPTImage.h>
+i<CorePlot/CPTLayer.h>
+i<CorePlot/CPTLayerAnnotation.h>
+i<CorePlot/CPTLegend.h>
+i<CorePlot/CPTLegendEntry.h>
+i<CorePlot/CPTLimitBand.h>
+i<CorePlot/CPTLineCap.h>
+i<CorePlot/CPTLineStyle.h>
+i<CorePlot/CPTMutableLineStyle.h>
+i<CorePlot/CPTMutableNumericData.h>
+i<CorePlot/CPTMutableNumericData+TypeConversion.h>
+i<CorePlot/CPTMutablePlotRange.h>
+i<CorePlot/CPTMutableShadow.h>
+i<CorePlot/CPTMutableTextStyle.h>
+i<CorePlot/CPTNumericDataType.h>
+i<CorePlot/CPTNumericData.h>
+i<CorePlot/CPTNumericData+TypeConversion.h>
+i<CorePlot/CPTPieChart.h>
+i<CorePlot/CPTPlatformSpecificDefines.h>
+i<CorePlot/CPTPlatformSpecificFunctions.h>
+i<CorePlot/CPTPlatformSpecificCategories.h>
+i<CorePlot/CPTPathExtensions.h>
+i<CorePlot/CPTPlot.h>
+i<CorePlot/CPTPlotArea.h>
+i<CorePlot/CPTPlotAreaFrame.h>
+i<CorePlot/CPTPlotRange.h>
+i<CorePlot/CPTPlotSpace.h>
+i<CorePlot/CPTPlotSpaceAnnotation.h>
+i<CorePlot/CPTPlotSymbol.h>
+i<CorePlot/CPTRangePlot.h>
+i<CorePlot/CPTResponder.h>
+i<CorePlot/CPTScatterPlot.h>
+i<CorePlot/CPTShadow.h>
+i<CorePlot/CPTTextLayer.h>
+i<CorePlot/CPTTextStyle.h>
+i<CorePlot/CPTTradingRangePlot.h>
+i<CorePlot/CPTTheme.h>
+i<CorePlot/CPTTimeFormatter.h>
+i<CorePlot/CPTUtilities.h>
+i<CorePlot/CPTXYAxis.h>
+i<CorePlot/CPTXYAxisSet.h>
+i<CorePlot/CPTXYGraph.h>
+i<CorePlot/CPTXYPlotSpace.h>
+i<CorePlot/CPTGraphHostingView.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../../../../../System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/AxisDemoController.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/CPTPlotSymbolTestController.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/CPTTestApp.LinkFileList
+c0000000050983CE400000000000003A0
+t1352154340
+s928
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/Controller.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/RotationView.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/SelectionDemoController.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Frameworks/CorePlot.framework
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Info.plist
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/MacOS/CPTTestApp
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/AxisDemo.nib
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/BlueTexture.png
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/CPTTestApp.nib
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/CorePlotIcon.icns
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/PlotSymbolDemo.nib
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/SelectionDemo.nib
+t2
+s0
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/CPTTestApp_Prefix.pch
+c000000004E978B180000000000000097
+t1318554392
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/CorePlotIcon.icns
+c000000004ED454600000000000048DD5
+t1322538080
+s298453
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/English.lproj/InfoPlist.strings
+c000000004E978B18000000000000005C
+t1318554392
+s92
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/AxisDemo.xib
+c000000004F0D016F0000000000002310
+t1326252399
+s8976
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/BlueTexture.png
+c000000004E978AC90000000000059EFE
+t1318554313
+s368382
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/CPTTestApp.xib
+c000000004F1E187D000000000002B1E3
+t1327372413
+s176611
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/PlotSymbolDemo.xib
+c000000004E978B180000000000002286
+t1318554392
+s8838
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/SelectionDemo.xib
+c000000004E978B180000000000003FBA
+t1318554392
+s16314
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/AxisDemoController.h
+c000000004F4118B70000000000000093
+t1329666231
+s147
+i<Cocoa/Cocoa.h>
+i<CorePlot/CorePlot.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/AxisDemoController.m
+c000000004F4118B80000000000000F8C
+t1329666232
+s3980
+i"AxisDemoController.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/CPTPlotSymbolTestController.h
+c000000004F4118B800000000000000CA
+t1329666232
+s202
+i<Cocoa/Cocoa.h>
+i<CorePlot/CorePlot.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/CPTPlotSymbolTestController.m
+c000000004F4118B80000000000000F4A
+t1329666232
+s3914
+i"CPTPlotSymbolTestController.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/Controller.h
+c000000004F4118B800000000000004FA
+t1329666232
+s1274
+i"RotationView.h"
+i<Cocoa/Cocoa.h>
+i<CorePlot/CorePlot.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/Controller.m
+c000000004F41959F0000000000005B8B
+t1329698207
+s23435
+i"Controller.h"
+i<CorePlot/CorePlot.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/RotationView.h
+c000000004F4118B80000000000000221
+t1329666232
+s545
+i<Cocoa/Cocoa.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/RotationView.m
+c000000004F4118B800000000000007AF
+t1329666232
+s1967
+i"RotationView.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/SelectionDemoController.h
+c000000004F4118B80000000000000115
+t1329666232
+s277
+i<Cocoa/Cocoa.h>
+i<CorePlot/CorePlot.h>
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/SelectionDemoController.m
+c000000004F4118B80000000000002254
+t1329666232
+s8788
+i"SelectionDemoController.h"
+
+N/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/main.m
+c000000004F4118B800000000000000FF
+t1329666232
+s255
+i<Cocoa/Cocoa.h>
+
+N/var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_Prefix-enscotzrxlskwhaqqxeswbhaheff/CPTTestApp_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004E978B180000000000000365
+t1318554392
+s869
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/AxisDemoController.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/CPTPlotSymbolTestController.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/Controller.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/RotationView.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/SelectionDemoController.m
+r0
+
+CBuild AST from /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesad4fb9647448b641^a451bd647448b641^---0#1#0#--18"Check dependencies
+
+CCompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/AxisDemoController.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/AxisDemoController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s373847146.694052
+e373847146.988433
+r1
+xCompileC
+x../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/AxisDemoController.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/AxisDemoController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/AxisDemoController.m5ccab16a7448b641^b83dfd6a7448b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/AxisDemoController.m0000000000000000^2064"CompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/AxisDemoController.o Source/AxisDemoController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_Prefix-enscotzrxlskwhaqqxeswbhaheff/CPTTestApp_Prefix.pch -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/AxisDemoController.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/AxisDemoController.o
+
+CCompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/CPTPlotSymbolTestController.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/CPTPlotSymbolTestController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s373847146.358242
+e373847146.655399
+r1
+xCompileC
+x../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/CPTPlotSymbolTestController.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/CPTPlotSymbolTestController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/CPTPlotSymbolTestController.m39ef5b6a7448b641^d5cfa76a7448b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/CPTPlotSymbolTestController.m0000000000000000^2100"CompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/CPTPlotSymbolTestController.o Source/CPTPlotSymbolTestController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_Prefix-enscotzrxlskwhaqqxeswbhaheff/CPTTestApp_Prefix.pch -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/CPTPlotSymbolTestController.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/CPTPlotSymbolTestController.o
+
+CCompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/Controller.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/Controller.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s373847145.857484
+e373847146.357832
+r1
+xCompileC
+x../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/Controller.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/Controller.mb5a4db697448b641^10045c6a7448b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/Controller.m0000000000000000^2032"CompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/Controller.o Source/Controller.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_Prefix-enscotzrxlskwhaqqxeswbhaheff/CPTTestApp_Prefix.pch -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/Controller.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/Controller.o
+
+CCompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/RotationView.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/RotationView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s373847145.410455
+e373847145.682218
+r1
+xCompileC
+x../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/RotationView.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/RotationView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/RotationView.mb15269697448b641^7bf8ae697448b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/RotationView.m0000000000000000^2040"CompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/RotationView.o Source/RotationView.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_Prefix-enscotzrxlskwhaqqxeswbhaheff/CPTTestApp_Prefix.pch -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/RotationView.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/RotationView.o
+
+CCompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/SelectionDemoController.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/SelectionDemoController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s373847146.990656
+e373847147.354889
+r1
+xCompileC
+x../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/SelectionDemoController.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/SelectionDemoController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/SelectionDemoController.m47c7fd6a7448b641^db695b6b7448b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/SelectionDemoController.m0000000000000000^2084"CompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/SelectionDemoController.o Source/SelectionDemoController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_Prefix-enscotzrxlskwhaqqxeswbhaheff/CPTTestApp_Prefix.pch -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/SelectionDemoController.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/SelectionDemoController.o
+
+CCompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/main.o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s373847145.682564
+e373847145.857185
+r1
+xCompileC
+x../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/main.o
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/main.me7e3ae697448b641^8db5db697448b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/main.m0000000000000000^2008"CompileC ../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/main.o Source/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug -include /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_Prefix-enscotzrxlskwhaqqxeswbhaheff/CPTTestApp_Prefix.pch -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Source/main.m -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/main.o
+
+CCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/AxisDemo.xib
+s373847142.288755
+e373847142.376771
+r1
+xCompileXIB
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/AxisDemo.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compiling /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/AxisDemo.xibf4174a667448b641^677b60667448b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/AxisDemo.xib0000000000000000^522"CompileXIB Resources/AxisDemo.xib    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/AxisDemo.nib /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/AxisDemo.xib --sdk /Developer/SDKs/MacOSX10.6.sdk
+
+CCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/CPTTestApp.xib
+s373847140.886783
+e373847141.405712
+r1
+xCompileXIB
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/CPTTestApp.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compiling /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/CPTTestApp.xibdc10e3647448b641^7deb67657448b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/CPTTestApp.xib0000000000000000^528"CompileXIB Resources/CPTTestApp.xib    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/CPTTestApp.nib /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/CPTTestApp.xib --sdk /Developer/SDKs/MacOSX10.6.sdk
+
+CCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/PlotSymbolDemo.xib
+s373847142.165631
+e373847142.282937
+r1
+xCompileXIB
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/PlotSymbolDemo.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compiling /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/PlotSymbolDemo.xib0a832a667448b641^9c8648667448b641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/PlotSymbolDemo.xib0000000000000000^540"CompileXIB Resources/PlotSymbolDemo.xib    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/PlotSymbolDemo.nib /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/PlotSymbolDemo.xib --sdk /Developer/SDKs/MacOSX10.6.sdk
+
+CCompileXIB /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/SelectionDemo.xib
+s373847142.377377
+e373847142.453912
+r1
+xCompileXIB
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/SelectionDemo.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compiling /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/SelectionDemo.xibc0b460667448b641^583974667448b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/SelectionDemo.xib0000000000000000^537"CompileXIB Resources/SelectionDemo.xib    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/SelectionDemo.nib /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/SelectionDemo.xib --sdk /Developer/SDKs/MacOSX10.6.sdk
+
+CCopyStringsFile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s373847140.871058
+e373847140.886433
+r1
+xCopyStringsFile
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings5913df647448b641^1ff2e2647448b641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/English.lproj/InfoPlist.strings0000000000000000^459"CopyStringsFile ../../build/Debug/CPTTestApp.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings
+
+CCpResource CorePlotIcon.icns ../../build/Debug/CPTTestApp.app/Contents/Resources/CorePlotIcon.icns
+s373847141.407450
+e373847141.415545
+r1
+xCpResource
+xCorePlotIcon.icns
+x../../build/Debug/CPTTestApp.app/Contents/Resources/CorePlotIcon.icns
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy ../../build/Debug/CPTTestApp.app/Contents/Resources/CorePlotIcon.icns7d7668657448b641^cf656a657448b641^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/CorePlotIcon.icns0000005c1fffdbc1^467"CpResource CorePlotIcon.icns ../../build/Debug/CPTTestApp.app/Contents/Resources/CorePlotIcon.icns    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/CorePlotIcon.icns /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources
+
+CCpResource Resources/BlueTexture.png ../../build/Debug/CPTTestApp.app/Contents/Resources/BlueTexture.png
+s373847141.415841
+e373847142.165419
+r1
+xCpResource
+xResources/BlueTexture.png
+x../../build/Debug/CPTTestApp.app/Contents/Resources/BlueTexture.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy ../../build/Debug/CPTTestApp.app/Contents/Resources/BlueTexture.png55856a657448b641^cfa32a667448b641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources/BlueTexture.png0000005c1fffdbc1^481"CpResource Resources/BlueTexture.png ../../build/Debug/CPTTestApp.app/Contents/Resources/BlueTexture.png    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Resources/BlueTexture.png /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Resources
+
+CLd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/MacOS/CPTTestApp normal i386
+s373847147.355327
+e373847147.477059
+r1
+xLd
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/MacOS/CPTTestApp
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Link /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/MacOS/CPTTestAppb9525b6b7448b641^ea257a6b7448b641^---0#0#0#--887"Ld ../../build/Debug/CPTTestApp.app/Contents/MacOS/CPTTestApp normal i386    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug -filelist /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/Objects-normal/i386/CPTTestApp.LinkFileList -mmacosx-version-min=10.5 -framework QuartzCore /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework/CorePlot -framework Cocoa -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/MacOS/CPTTestApp
+
+CPBXCp /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework ../../build/Debug/CPTTestApp.app/Contents/Frameworks/CorePlot.framework
+s373847142.456896
+e373847142.547567
+r1
+xPBXCp
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework
+x../../build/Debug/CPTTestApp.app/Contents/Frameworks/CorePlot.framework
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy ../../build/Debug/CPTTestApp.app/Contents/Frameworks/CorePlot.framework3d1075667448b641^6e4f8c667448b641^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Frameworks/CorePlot.framework0000005c1fffdbc1^515"PBXCp /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework ../../build/Debug/CPTTestApp.app/Contents/Frameworks/CorePlot.framework    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/build/Debug/CorePlot.framework /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Frameworks
+
+CProcessInfoPlistFile /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Info.plist Info.plist
+s373847140.858940
+e373847140.869233
+r1
+xProcessInfoPlistFile
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Info.plist
+xInfo.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist41f5db647448b641^098bde647448b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/Info.plist0000000000000000^480"ProcessInfoPlistFile ../../build/Debug/CPTTestApp.app/Contents/Info.plist Info.plist    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    builtin-infoPlistUtility Info.plist -genpkginfo /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app/Contents/Info.plist
+
+CProcessPCH /Users/alb/Library/Developer/Xcode/DerivedData/CPTTestApp-diowmcbdxtvttzgxpikzfmsudqso/Index/PrecompiledHeaders/CPTTestApp_Prefix-aoovtqykfrenkvbmvtepwapsjogl_ast/CPTTestApp_Prefix.pch.pth CPTTestApp_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_Prefix-enscotzrxlskwhaqqxeswbhaheff/CPTTestApp_Prefix.pch.gch CPTTestApp_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s373847142.551557
+e373847145.408292
+r1
+xProcessPCH
+x/var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_Prefix-enscotzrxlskwhaqqxeswbhaheff/CPTTestApp_Prefix.pch.gch
+xCPTTestApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CPTTestApp_Prefix.pch444c8d667448b641^74b268697448b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/CPTTestApp_Prefix.pch0000000000000000^1977"ProcessPCH /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_Prefix-enscotzrxlskwhaqqxeswbhaheff/CPTTestApp_Prefix.pch.gch CPTTestApp_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-generated-files.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-own-target-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-all-target-headers.hmap -iquote /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/CPTTestApp-project-headers.hmap -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/include -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/DerivedSources/i386 -I/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/CPTTestApp.build/Debug/CPTTestApp.build/DerivedSources -F/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/CPTTestApp_Prefix.pch -o /var/folders/aZ/aZQiJvqeGfq-Ii+NGSHe-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CPTTestApp_Prefix-enscotzrxlskwhaqqxeswbhaheff/CPTTestApp_Prefix.pch.gch
+
+CTouch /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app
+s373847147.479644
+e373847147.515246
+r1
+xTouch
+x/Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Touch /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.appaed97a6b7448b641^70ee836b7448b641^---0#0#0#--229"Touch ../../build/Debug/CPTTestApp.app    cd /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp    /usr/bin/touch -c /Users/alb/Desktop/LIBS/CorePlot_1.0/Source/examples/CPTTestApp/../../build/Debug/CPTTestApp.app
+
